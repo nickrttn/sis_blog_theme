@@ -1,0 +1,313 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sparrow in Space Theme 1.0\n"
+"POT-Creation-Date: 2013-02-11 22:13+0700\n"
+"PO-Revision-Date: 2013-02-11 22:14+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "Oh Snap!"
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"Oops, it seems you're looking for a page that doesn't exist. Blame the "
+"gnomes."
+msgstr ""
+
+#: category.php:24
+msgid "Showing posts from: "
+msgstr ""
+
+#: category.php:37 tag.php:37
+msgid "No posts were found."
+msgstr ""
+
+#: category.php:44 index.php:30 search.php:44 tag.php:44
+msgid "&laquo; Older Posts"
+msgstr ""
+
+#: category.php:45 index.php:31 search.php:45 tag.php:45
+msgid "Newer Posts &raquo;"
+msgstr ""
+
+#: comments.php:4
+msgid "You cannot access this file directly."
+msgstr ""
+
+#: comments.php:10
+msgid ""
+"This post is password protected. Enter the password to view the comments."
+msgstr ""
+
+#: comments.php:16
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:16
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:16
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:23
+msgid "&laquo; Older Comments"
+msgstr ""
+
+#: comments.php:24
+msgid "Newer Comments &raquo; "
+msgstr ""
+
+#: comments.php:29
+msgid "Comments are closed."
+msgstr ""
+
+#: content-gallery.php:16 content-link.php:14 content-quote.php:13
+#: content-video.php:16 content.php:16 single.php:34
+msgid " - No Comments"
+msgstr ""
+
+#: content-gallery.php:16 content-link.php:14 content-quote.php:13
+#: content-video.php:16 content.php:16 single.php:34
+msgid " - 1 Comment"
+msgstr ""
+
+#: content-gallery.php:16 content-link.php:14 content-quote.php:13
+#: content-video.php:16 content.php:16 single.php:34
+msgid " - % Comments"
+msgstr ""
+
+#: content-gallery.php:40
+#, php-format
+msgid "This gallery contains %s photo."
+msgstr ""
+
+#: content.php:21
+msgid "More &raquo;"
+msgstr ""
+
+#: footer.php:23
+msgid "Go to Top"
+msgstr ""
+
+#: functions.php:22
+msgid "Top Menu Left"
+msgstr ""
+
+#: functions.php:23
+msgid "Top Menu Right"
+msgstr ""
+
+#: functions.php:24
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:34
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:36
+msgid "The main sidebar area"
+msgstr ""
+
+#: functions.php:45 functions/sparrowinspace-customizer.php:21
+msgid "Footer"
+msgstr ""
+
+#: functions.php:47
+msgid "The footer area, holds 4 widgets."
+msgstr ""
+
+#: functions.php:81
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:108
+msgid "on"
+msgstr ""
+
+#: functions.php:108
+msgid "at"
+msgstr ""
+
+#: functions.php:113
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:139 page-contact.php:120
+msgid "Name (required)"
+msgstr ""
+
+#: functions.php:142
+msgid "Email (required) (will not be displayed)"
+msgstr ""
+
+#: functions.php:145
+msgid "Website"
+msgstr ""
+
+#: header.php:47 header.php:84
+msgid "Select a page..."
+msgstr ""
+
+#: index.php:25
+msgid "No Posts were found!"
+msgstr ""
+
+#: page-archives.php:28 page-contact.php:100 page-full-width.php:24
+#: page.php:29
+msgid "Edit This"
+msgstr ""
+
+#: page-archives.php:34
+msgid "Archives by Month"
+msgstr ""
+
+#: page-archives.php:41
+msgid "Archives by Category"
+msgstr ""
+
+#: page-contact.php:106
+msgid "Success!"
+msgstr ""
+
+#: page-contact.php:107
+msgid ""
+"You have successfully sent the message. We will get back to you as soon as "
+"possible"
+msgstr ""
+
+#: page-contact.php:109
+msgid "Error"
+msgstr ""
+
+#: page-contact.php:110
+msgid "We couldn't send the message at this time. Please try again later."
+msgstr ""
+
+#: page-contact.php:123
+msgid "Email (required)"
+msgstr ""
+
+#: page-contact.php:126
+msgid "Website (don't forget http://)"
+msgstr ""
+
+#: page-contact.php:144 page-full-width.php:45 page.php:50 single.php:78
+msgid "No posts were found!"
+msgstr ""
+
+#: search.php:24
+msgid "Search Results for: "
+msgstr ""
+
+#: search.php:37
+msgid "No results were found matching your criteria."
+msgstr ""
+
+#: sidebar.php:4
+msgid "Search"
+msgstr ""
+
+#: tag.php:24
+msgid "Posts tagged with: "
+msgstr ""
+
+#: functions/sparrowinspace-customizer.php:14
+msgid "Header"
+msgstr ""
+
+#: functions/sparrowinspace-customizer.php:15
+msgid "Allows you to change how things look in the header."
+msgstr ""
+
+#: functions/sparrowinspace-customizer.php:22
+msgid "Allows you to change which parts of the footer to display"
+msgstr ""
+
+#: functions/sparrowinspace-customizer.php:33
+msgid "Display Top Left Menu?"
+msgstr ""
+
+#: functions/sparrowinspace-customizer.php:46
+msgid "Display Top Right Menu?"
+msgstr ""
+
+#: functions/sparrowinspace-customizer.php:59
+msgid "Display Logo?"
+msgstr ""
+
+#: functions/sparrowinspace-customizer.php:71
+msgid "Upload a new logo, 84x84px."
+msgstr ""
+
+#: functions/sparrowinspace-customizer.php:83
+msgid "Display Main Menu?"
+msgstr ""
+
+#: functions/sparrowinspace-customizer.php:96
+msgid "Display Footer Widgets area?"
+msgstr ""
+
+#: functions/sparrowinspace-customizer.php:105
+msgid "Contact Form Email"
+msgstr ""
+
+#: functions/sparrowinspace-customizer.php:106
+msgid "Set the receiver email for the contact form."
+msgstr ""
+
+#: functions/sparrowinspace-customizer.php:116
+msgid "Contact Form Email Address"
+msgstr ""
+
+#: functions/widget-ad-260.php:10
+msgid "Displays a single 260x120 ad."
+msgstr ""
+
+#: functions/widget-ad-260.php:17
+msgid "Ad 260x120"
+msgstr ""
+
+#: functions/widget-ad-260.php:27
+msgid "Title"
+msgstr ""
+
+#: functions/widget-ad-260.php:32
+msgid "Ad Image"
+msgstr ""
+
+#: functions/widget-ad-260.php:37
+msgid "Ad Link"
+msgstr ""
+
+#: functions/widget-social-icons.php:9
+msgid "Displays a list of social icons"
+msgstr ""
+
+#: functions/widget-social-icons.php:15
+msgid "Connect with us"
+msgstr ""
+
+#: functions/widget-social-icons.php:22
+msgid "Connect with us on our social networks."
+msgstr ""
+
+#: functions/widget-social-icons.php:30
+msgid "Title:"
+msgstr ""
+
+#: functions/widget-social-icons.php:36
+msgid "Description:"
+msgstr ""
