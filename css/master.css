@@ -981,8 +981,8 @@ form input[type="text"],
 form input[type="email"],
 form input[type="url"] {
   border: 1px solid #e1e1e1;
-  height: 42px;
-  padding: 1em;
+  height: 35px;
+  padding: 7px;
   width: 85%;
   float: left;
   margin-left: -1px;
